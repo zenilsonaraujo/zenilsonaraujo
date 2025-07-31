@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Zenilson! 👋
 
-<!--
-**zenilsonaraujo/zenilsonaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Técnico de Suporte + Programador de Soluções Reais**  
+🌍 Em construção | 📫 **Contato:** zenilsonaraujo@gmail.com
 
-Here are some ideas to get you started:
+## Sobre Mim
+- 🔭 Atualmente desenvolvendo sistemas simples para automatizar tarefas rotineiras para amigos e pessoas próximas
+- 🌱 Estudando HTML, CSS, Python, Flask e automações com VBA e Access
+- 👯 Buscando colaborar com projetos educacionais, comerciais e religiosos
+- 🤔 Procurando aprender mais sobre boas práticas em desenvolvimento e versionamento
+- ⚡ Curiosidade: Já fui agente administrativo por 10 anos e hoje utilizo a TI para facilitar a vida das pessoas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que Uso
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
+![Flask](https://img.shields.io/badge/-Flask-black?logo=flask)
+![Git](https://img.shields.io/badge/-Git-orange?logo=git)
+![Access](https://img.shields.io/badge/-MS%20Access-red?logo=microsoft-access)
+![VBA](https://img.shields.io/badge/-VBA-green?logo=microsoft)
+
+## Estatísticas do GitHub
+![Zenilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenilson&show_icons=true&theme=dracula)
+
+## Projetos Destacados
+- [Sistema de Sorteio para Festas Religiosas](#) – Importação de listas de participantes e prêmios, com sorteio automatizado e reaproveitamento inteligente dos dados.
+- [Sistema Escolar em Access](#) – Cadastro de alunos, geração de declarações e controle escolar local com banco de dados integrado.
+- [Gerador de Cartazes de Ofertas](#) – Geração automática de cartazes com destaque visual, suporte a impressão em PDF com cores preservadas e fonte ampliada para acessibilidade.
+- [Sistema de Sorteio com Importação de Listas](#) – Aplicação reutilizável para eventos que permite cadastrar participantes e prêmios de forma prática e eficiente.
+
+## Contato
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp)](https://wa.me/(48)99827-3891)
