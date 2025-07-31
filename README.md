@@ -24,9 +24,8 @@
 
 ## Projetos Destacados
 - [Sistema de Sorteio para Festas Religiosas](#) – Importação de listas de participantes e prêmios, com sorteio automatizado e reaproveitamento inteligente dos dados.
-- [Sistema Escolar em Access](#) – Cadastro de alunos, geração de declarações e controle escolar local com banco de dados integrado.
-- [Gerador de Cartazes de Ofertas](#) – Geração automática de cartazes com destaque visual, suporte a impressão em PDF com cores preservadas e fonte ampliada para acessibilidade.
-- [Leitor de NFe em XML](#) – Leitura automatizada de arquivos XML de Nota Fiscal Eletrônica para extração e visualização rápida de informações essenciais.
+- [Gerador de Cartazes de Ofertas]([#](https://github.com/zenilsonaraujo/gerador_cartaz_oferta)) – Geração automática de cartazes com destaque visual, suporte a impressão em PDF com cores preservadas e fonte ampliada para acessibilidade.
+- [Leitor de NFe em XML]([#](https://github.com/zenilsonaraujo/processador-nfe-xml)) – Leitura automatizada de arquivos XML de Nota Fiscal Eletrônica para extração e visualização rápida de informações essenciais.
 
 ## Contato
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp)](https://wa.me/5548998273891)
