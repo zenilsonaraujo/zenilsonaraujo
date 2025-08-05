@@ -23,7 +23,7 @@
 ![Zenilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenilsonaraujo&show_icons=true&theme=dracula)
 
 ## Projetos Destacados
-- [Sistema de Sorteio para Festas Religiosas](#) – Importação de listas de participantes e prêmios, com sorteio automatizado e reaproveitamento inteligente dos dados.
+- [Sistema de Sorteio para Festas Religiosas](https://github.com/zenilsonaraujo/sorteador_igreja) – Importação de listas de participantes e prêmios, com sorteio automatizado e reaproveitamento inteligente dos dados.
 - [Gerador de Cartazes de Ofertas](https://github.com/zenilsonaraujo/gerador_cartaz_oferta) – Geração automática de cartazes com destaque visual, suporte a impressão em PDF com cores preservadas e fonte ampliada para acessibilidade.
 - [Leitor de NFe em XML](https://github.com/zenilsonaraujo/processador-nfe-xml) – Leitura automatizada de arquivos XML de Nota Fiscal Eletrônica para extração e visualização rápida de informações essenciais.
 
